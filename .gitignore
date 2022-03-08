@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template
+### Pycharm project files
+
+.DS_Store
+.idea/*
+.eggs
+venv/*
+build/*
+dist/*
